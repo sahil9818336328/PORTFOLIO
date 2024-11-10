@@ -119,9 +119,7 @@ const UserInfo = () => {
             className='animate-icon'
           />
           <div className='title'>Currently Learning</div>
-          <p className='description '>
-            React-Query, Tailwind Css, Next JS and Typescript.
-          </p>
+          <p className='description '> Tailwind Css, Next JS and Typescript.</p>
           <div className='languages'>
             <h4>Projects build so far:</h4>
             <p>Pure Cart</p>
