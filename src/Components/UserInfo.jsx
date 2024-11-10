@@ -109,7 +109,6 @@ const UserInfo = () => {
             <p>RTL & Jest</p>
             <p>Storybook</p>
             <p>React router (6.4)</p>
-            <p>Material-UI</p>
           </div>
         </div>
         <div className='service service-three'>
