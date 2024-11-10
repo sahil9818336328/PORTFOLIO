@@ -102,6 +102,7 @@ const StyledRecentWorkWrapper = styled.section`
         .stack {
           color: var(--grey-500);
           letter-spacing: var(--letter-spacing);
+          line-height: 1.4;
 
           span {
             color: var(--primary-500);

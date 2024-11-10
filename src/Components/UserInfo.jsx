@@ -97,7 +97,7 @@ const UserInfo = () => {
           />
           <div className='title'>additional skills</div>
           <p className='description '>
-            Additionally, competent in the following languages/technologies.
+            Familiar with the following languages/technologies.
           </p>
 
           <div className='languages'>
@@ -109,6 +109,7 @@ const UserInfo = () => {
             <p>RTL & Jest</p>
             <p>Storybook</p>
             <p>React router (6.4)</p>
+            <p>Material-UI</p>
           </div>
         </div>
         <div className='service service-three'>
@@ -120,11 +121,11 @@ const UserInfo = () => {
           />
           <div className='title'>Currently Learning</div>
           <p className='description '>
-            Full-stack with Node and Express, building the web one line of code
-            at a time.
+            React-Query, Tailwind Css, Next JS and Typescript.
           </p>
           <div className='languages'>
             <h4>Projects build so far:</h4>
+            <p>Pure Cart</p>
             <p>Jobs Tracker</p>
           </div>
         </div>
