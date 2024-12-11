@@ -122,6 +122,7 @@ const UserInfo = () => {
           <p className='description '> Tailwind Css, Next JS and Typescript.</p>
           <div className='languages'>
             <h4>Projects build so far:</h4>
+            <p>Talk Ai</p>
             <p>Pure Cart</p>
             <p>Jobs Tracker</p>
           </div>
